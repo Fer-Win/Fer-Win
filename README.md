@@ -13,7 +13,7 @@
 #
 
 ### Stats
-![Ferwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fer-win&show_icons=true&theme=dark)
+![Ferwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fer-win&show_icons=true&theme=highcontrast)
 
 
 
