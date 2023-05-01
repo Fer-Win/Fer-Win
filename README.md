@@ -10,7 +10,7 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </br>
 
-#
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Stats
 ![Ferwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fer-win&show_icons=true&theme=highcontrast)
