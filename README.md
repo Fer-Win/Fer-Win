@@ -1,5 +1,5 @@
 # Ferwin Lopez 
-**`Web Developer | Graphic Designer (Crafting new exeriences)`**
+*`Web Developer | Graphic Designer (Crafting new exeriences)`*
 ---
 
 ### Languages and Tools
@@ -10,6 +10,7 @@
 <img align="left" alt="C Language" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+---
 
 ### Stats
 ![Ferwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fer-win&hide=contribs,prs)
