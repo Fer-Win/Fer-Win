@@ -1,5 +1,7 @@
 # Ferwin Lopez 
-**`Web Developer | Graphic Designer (Crafting new experiences)`**
+![Profile Banner](https://github.com/Fer-Win/Fer-Win/blob/main/Github%20Banner.png)
+## About Me
+Web Developer cum Graphic Designer with 2 years of experience in building cool looking and high performing web applications and also more than 3 years of experience in Graphic Design. Am truly passionate about using technology to solve real-world problems and contributing to open-source projects.
 
 ## Languages and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
