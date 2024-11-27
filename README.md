@@ -7,10 +7,6 @@ Web Developer cum Graphic Designer with 2 years of experience in building cool l
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,next,tailwind,firebase,mongodb,java,c,typescript,mysql&theme=dark)](https://github.com/Fer-Win/)
 
 
-
-## Stats
-![Ferwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fer-win&show_icons=true&theme=radical)
-
 ## Socials
 <p align="center">
   <p > 
